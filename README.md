@@ -5,7 +5,6 @@
 ![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
 ![Tests](https://img.shields.io/badge/tests-4%20passed-brightgreen)
 
-Aplicación web desarrollada con **Python y Flask** para gestionar procesos de votación, usuarios, candidatos y resultados.
 
 Aplicación web desarrollada con **Python y Flask** para gestionar procesos de votación, usuarios, candidatos y resultados.
 
