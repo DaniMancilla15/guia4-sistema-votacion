@@ -1,5 +1,12 @@
 # 🗳️ Sistema Web de Votación
 
+
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
+![Tests](https://img.shields.io/badge/tests-4%20passed-brightgreen)
+
+Aplicación web desarrollada con **Python y Flask** para gestionar procesos de votación, usuarios, candidatos y resultados.
+
 Aplicación web desarrollada con **Python y Flask** para gestionar procesos de votación, usuarios, candidatos y resultados.
 
 El proyecto ha evolucionado durante las prácticas de **Estándares y Métricas de Calidad de Software**, incorporando validaciones, pruebas automatizadas y mejoras orientadas a la calidad del software.
